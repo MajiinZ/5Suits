@@ -1,0 +1,7 @@
+// Set your Apple team in Xcode's Signing & Capabilities tab or Local.xcconfig.
+DEVELOPMENT_TEAM =
+PRODUCT_BUNDLE_IDENTIFIER = com.fivesuits.app
+IPHONEOS_DEPLOYMENT_TARGET = 15.0
+MARKETING_VERSION = 1.0.0
+CURRENT_PROJECT_VERSION = 1
+#include? "Local.xcconfig"
